@@ -106,7 +106,7 @@ The ternary expression does not exist in **Kotlin**. However, the `?:` (elvis) o
 The `for` loop is equivalent to a **Java** `for-each` loop. The most common application of this loop is iterating over an array or collection.
 
 ```kotlin
-val countries = listOf<String>("Australia", "Brazil", "Canada")
+val countries: MutableList<String> = mutableListOf("Australia", "Brazil", "Canada")
 
 for (country in countries) {
     println(country) // Australia
@@ -202,11 +202,11 @@ fun getProgLanguages(): List<String> {
 fun main() {
     addProgLang("MATLAB")
     println("Total programming languages: ${getProgLanguages().size}") // Total programming languages: 4
-    for (i in getProgLanguages()) {
-        println(i) // C#
-                   // Go
-                   // Java
-                   // MATLAB
+    for (progLang in getProgLanguages()) {
+        println(progLang) // C#
+                          // Go
+                          // Java
+                          // MATLAB
     }
 }
 ```
