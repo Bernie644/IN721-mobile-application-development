@@ -64,52 +64,186 @@
       ]
    },
    {
-      "id": 2,
-      "name": "Argentina",
-      "capital": "Buenos Aires",
-      "langCode": "es",
-      "flagImg": "https://flagpedia.net/data/flags/h80/ar.png",
-      "phrases": [],
-      "quiz": [
-
-      ]
-   },
+    "id": 2,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "langCode": "es",
+    "flagImg": "https://flagpedia.net/data/flags/h80/ar.png",
+    "phrases": [
+        "Hey, you wanna go get something to eat?",
+        "Would you look at that!  Should I applaud you or what?",
+        "Your mother’s house is a mess"
+    ],
+    "quiz": [
+        {
+            "question": "A popular beverage in Argentina is?",
+            "answers": [
+                "Boba",
+                "Lassi",
+                "Mate - correct",
+                "Sangria"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which type of dance is a traditional Argentine dance",
+            "answers": [
+                "Cha-cha",
+                "Rumba",
+                "Samba",
+                "Tango - correct"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Argentina can be divided into four physical regions. What is the virtually treeless grassland area known as?",
+            "answers": [
+                "Pampa - correct",
+                "Himalayas",
+                "Floodbank",
+                "Beach"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Who founded Buenos Aires?",
+            "answers": [
+                "Eva Peron",
+                "Che Guevara",
+                "Juan de Garay - correct",
+                "Diego Maradona"
+            ],
+            "img": ""
+        },
+        {
+            "question": "What is the capital city of Buenos Aires province?",
+            "answers": [
+                "Rosario",
+                "Córdoba",
+                "Tucumán",
+                "La Plata - correct"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which tourist hot spot in Neuquen Province is popular for canoeing, hiking, and fishing?",
+            "answers": [
+                "San Martin de los Andes - correct",
+                "Salta",
+                "Cordoba",
+                "Mendoza"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which river separates Buenos Aires from Montevideo?",
+            "answers": [
+                "De La Plata River - correct",
+                "Paraguay",
+                "Uruguay",
+                "Desaguadero"
+            ],
+            "img": ""
+        },
+        {
+            "question": "What does Buenos Aires mean?",
+            "answers": [
+                "Our Lady of Bonaire",
+                "Sanctuary",
+                "Good air - correct",
+                "Angelic"
+            ],
+            "img": ""
+        },
+  
    {
-      "id": 3,
-      "name": "Belgium",
-      "capital": "Brussels",
-      "langCode": "nl",
-      "flagImg": "https://flagpedia.net/data/flags/h80/be.png",
-      "phrases": [],
-      "quiz": []
-   },
-   {
-      "id": 4,
-      "name": "China",
-      "capital": "Beijing",
-      "langCode": "zh",
-      "flagImg": "https://flagpedia.net/data/flags/h80/cn.png",
-      "phrases": [],
-      "quiz": []
-   },
-   {
-      "id": 5,
-      "name": "Mexico",
-      "capital": "Mexico City",
-      "langCode": "es",
-      "flagImg": "https://flagpedia.net/data/flags/h80/mx.png",
-      "phrases": [],
-      "quiz": []
-   },
-   {
-      "id": 6,
-      "name": "New Zealand",
-      "capital": "Wellington",
-      "langCode": "en",
-      "flagImg": "https://flagpedia.net/data/flags/h80/nz.png",
-      "phrases": [],
-      "quiz": []
-   },
+    "id": 6,
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "langCode": "en",
+    "flagImg": "https://flagpedia.net/data/flags/h80/nz.png",
+    "phrases": [],
+    "quiz": [
+        {
+            "question": "How many islands does New Zealand consist of",
+            "answers": [
+                "Three",
+                "Two",
+                "One",
+                "Seven"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which flightless bird is on the logo of the New Zealand Air Force?",
+            "answers": [
+                "Kiwi",
+                "Penguin",
+                "Cassowary",
+                "Peacock"
+            ],
+            "img": ""
+        },
+        {
+            "question": "How many pounds of Uranium may High Schools hold?",
+            "answers": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which religion do people identify with the most out of these four?",
+            "answers": [
+                "Jediism",
+                "Buddhism",
+                "Rastafarianism",
+                "Raëlism"
+            ],
+            "img": ""
+        },
+        {
+            "question": "How many officialy recognised wizards reside in New Zealand?",
+            "answers": [
+                "One",
+                "Two",
+                "Five",
+                "Six"
+            ],
+            "img": ""
+        },
+        {
+            "question": "What recreational activity for maniacs involves a simulated fall to your death?",
+            "answers": [
+                "Bungy jumping",
+                "Horsee riding",
+                "Running",
+                "Tramping"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which city has the least rainfall in NZ?",
+            "answers": [
+                "Christchurch",
+                "Wellington",
+                "Dunedin",
+                "Auckland"
+            ],
+            "img": ""
+        },
+        {
+            "question": "Which city has a town clock which has been in action for 125 years without being wound?",
+            "answers": [
+                "Dunedin",
+                "Wellington",
+                "Christchurch",
+                "Auckland"
+            ],
+            "img": ""
+        },
    {
       "id": 7,
       "name": "South Africa",
